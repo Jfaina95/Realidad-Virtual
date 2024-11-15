@@ -1,0 +1,11 @@
+Model Information:
+* title:	Carter Coffee Table
+* source:	https://sketchfab.com/3d-models/carter-coffee-table-f68caff5104d4470b3d5a2e328720e14
+* author:	Purple Ark Studio (https://sketchfab.com/PurpleArkStudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Carter Coffee Table" (https://sketchfab.com/3d-models/carter-coffee-table-f68caff5104d4470b3d5a2e328720e14) by Purple Ark Studio (https://sketchfab.com/PurpleArkStudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

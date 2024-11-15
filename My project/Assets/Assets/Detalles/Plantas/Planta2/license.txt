@@ -1,0 +1,11 @@
+Model Information:
+* title:	Big Plant
+* source:	https://sketchfab.com/3d-models/big-plant-89c6e8ae685d4d11ab4d77dc50066a83
+* author:	AnnPiskacov (https://sketchfab.com/AndreaPiskacova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Big Plant" (https://sketchfab.com/3d-models/big-plant-89c6e8ae685d4d11ab4d77dc50066a83) by AnnPiskacov (https://sketchfab.com/AndreaPiskacova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

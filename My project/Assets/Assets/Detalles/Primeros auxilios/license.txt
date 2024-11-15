@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wall mount first aid kit
+* source:	https://sketchfab.com/3d-models/wall-mount-first-aid-kit-e6177c57f52e4e76970d1349472a21eb
+* author:	AlexKurts (https://sketchfab.com/AlexKurts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wall mount first aid kit" (https://sketchfab.com/3d-models/wall-mount-first-aid-kit-e6177c57f52e4e76970d1349472a21eb) by AlexKurts (https://sketchfab.com/AlexKurts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	参考書(テクスチャ)
+* source:	https://sketchfab.com/3d-models/924ec69180d541719e19567573552da8
+* author:	scarymovie😍 (https://sketchfab.com/scarymovie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "参考書(テクスチャ)" (https://sketchfab.com/3d-models/924ec69180d541719e19567573552da8) by scarymovie😍 (https://sketchfab.com/scarymovie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wire End Table
+* source:	https://sketchfab.com/3d-models/wire-end-table-180969bf50fe4a31aa99d80bb43492f7
+* author:	Jesus Bibian Jr (https://sketchfab.com/ChewyPixels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wire End Table" (https://sketchfab.com/3d-models/wire-end-table-180969bf50fe4a31aa99d80bb43492f7) by Jesus Bibian Jr (https://sketchfab.com/ChewyPixels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

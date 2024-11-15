@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Flower. Polycam app
+* source:	https://sketchfab.com/3d-models/small-flower-polycam-app-ef4e3e74ff3c415e9043b6eb794593c1
+* author:	TomTLC (https://sketchfab.com/TomTLC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Flower. Polycam app" (https://sketchfab.com/3d-models/small-flower-polycam-app-ef4e3e74ff3c415e9043b6eb794593c1) by TomTLC (https://sketchfab.com/TomTLC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

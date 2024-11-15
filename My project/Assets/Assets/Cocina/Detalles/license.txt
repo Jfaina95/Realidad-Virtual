@@ -1,0 +1,11 @@
+Model Information:
+* title:	bowl
+* source:	https://sketchfab.com/3d-models/bowl-c5b977e65c4e4f568de707eaaed6aa9e
+* author:	Mylom (https://sketchfab.com/Mylom)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bowl" (https://sketchfab.com/3d-models/bowl-c5b977e65c4e4f568de707eaaed6aa9e) by Mylom (https://sketchfab.com/Mylom) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
