@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 32541 MB
+OS: 'Windows 11  (10.0.26120) 64bit Professional' Language: 'en' Physical Memory: 16332 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\Guarda aca\Programas\unity\2021.3.23f1\Editor\Unity.exe
+D:\2021.3.23f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Usuario/Documents/GitHub/My project
+E:/Workspace/Repositorios/Realidad_Virtual/Realidad-Virtual/My project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64629
-Successfully changed project path to: C:/Users/Usuario/Documents/GitHub/My project
-C:/Users/Usuario/Documents/GitHub/My project
+63452
+Successfully changed project path to: E:/Workspace/Repositorios/Realidad_Virtual/Realidad-Virtual/My project
+E:/Workspace/Repositorios/Realidad_Virtual/Realidad-Virtual/My project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,109 +47,112 @@ C:/Users/Usuario/Documents/GitHub/My project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23504] Host "[IP] 192.168.1.42 [Port] 0 [Flags] 2 [Guid] 3842184037 [EditorId] 3842184037 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-JMDPBG2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [19468] Host "[IP] 192.168.0.3 [Port] 0 [Flags] 2 [Guid] 2981971881 [EditorId] 2981971881 [Version] 1048832 [Id] WindowsEditor(7,MaxiPcONE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [23504] Host "[IP] 192.168.1.42 [Port] 0 [Flags] 2 [Guid] 3842184037 [EditorId] 3842184037 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-JMDPBG2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [19468] Host "[IP] 192.168.0.3 [Port] 0 [Flags] 2 [Guid] 2981971881 [EditorId] 2981971881 [Version] 1048832 [Id] WindowsEditor(7,MaxiPcONE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 153.68 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 168.81 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
-[Subsystems] Discovering subsystems at path D:/Guarda aca/Programas/unity/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Usuario/Documents/GitHub/My project/Assets
+[Subsystems] Discovering subsystems at path D:/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Workspace/Repositorios/Realidad_Virtual/Realidad-Virtual/My project/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
-    Vendor:   NVIDIA
-    VRAM:     3935 MB
-    Driver:   32.0.15.6094
+    Renderer: ASUS Radeon RX 570 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8170 MB
+    Driver:   31.0.21914.4000
 Initialize mono
-Mono path[0] = 'D:/Guarda aca/Programas/unity/2021.3.23f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Guarda aca/Programas/unity/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Guarda aca/Programas/unity/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56064
+Mono path[0] = 'D:/2021.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Guarda aca/Programas/unity/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004619 seconds.
+Register platform support module: D:/2021.3.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003058 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 146.85 ms, found 3 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 150.39 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.740 seconds
+- Completed reload, in  0.819 seconds
 Domain Reload Profiling:
-	ReloadAssembly (741ms)
-		BeginReloadAssembly (90ms)
+	ReloadAssembly (820ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (551ms)
-			LoadAssemblies (89ms)
+		EndReloadAssembly (620ms)
+			LoadAssemblies (93ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (112ms)
+			SetupTypeCache (159ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (353ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (369ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (147ms)
+				RefreshPlugins (150ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (143ms)
-				ProcessInitializeOnLoadMethodAttributes (54ms)
+				ProcessInitializeOnLoadAttributes (148ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008597 seconds.
+Registered in 0.009721 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Usuario\Documents\GitHub\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Usuario\Documents\GitHub\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image E:\Workspace\Repositorios\Realidad_Virtual\Realidad-Virtual\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Workspace\Repositorios\Realidad_Virtual\Realidad-Virtual\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 147.94 ms, found 3 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 151.04 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.787 seconds
+- Completed reload, in  1.670 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1788ms)
-		BeginReloadAssembly (108ms)
+	ReloadAssembly (1671ms)
+		BeginReloadAssembly (134ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (1557ms)
-			LoadAssemblies (93ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (1412ms)
+			LoadAssemblies (115ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (339ms)
+			SetupTypeCache (387ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (82ms)
-			SetupLoadedEditorAssemblies (981ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (794ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (148ms)
-				BeforeProcessingInitializeOnLoad (145ms)
-				ProcessInitializeOnLoadAttributes (598ms)
-				ProcessInitializeOnLoadMethodAttributes (80ms)
+				RefreshPlugins (151ms)
+				BeforeProcessingInitializeOnLoad (126ms)
+				ProcessInitializeOnLoadAttributes (412ms)
+				ProcessInitializeOnLoadMethodAttributes (97ms)
 				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5500 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 56 unused Assets / (0.8 MB). Loaded Objects now: 5953.
+Unloading 5503 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (0.8 MB). Loaded Objects now: 5955.
 Memory consumption went from 222.2 MB to 221.4 MB.
-Total: 4.822700 ms (FindLiveObjects: 0.775700 ms CreateObjectMapping: 0.226700 ms MarkObjects: 3.494700 ms  DeleteObjects: 0.324200 ms)
+Total: 4.521900 ms (FindLiveObjects: 0.506700 ms CreateObjectMapping: 0.144700 ms MarkObjects: 3.508900 ms  DeleteObjects: 0.360500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,487 +166,121 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 429057.809683 seconds.
-  path: Assets/Assets/elevator.jpg
-  artifactKey: Guid(a3cd1e77406cdf74d92f81ee8b9828c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/elevator.jpg using Guid(a3cd1e77406cdf74d92f81ee8b9828c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a77a8acc39ba2157808978ed8f4569') in 0.120181 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Assets/elevador.mat
-  artifactKey: Guid(95320110baaab344b9cc088a30fb69ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/elevador.mat using Guid(95320110baaab344b9cc088a30fb69ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc1fd23983b89646f906c4272b4eea0') in 0.271013 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Assets/elevator.obj
-  artifactKey: Guid(0e354735761a55240ac390d7497efba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/elevator.obj using Guid(0e354735761a55240ac390d7497efba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fcbf1d304498d28ef10e7379fc6796') in 0.235297 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000089 seconds.
-  path: Assets/Assets/Detalles
-  artifactKey: Guid(c5036c9e7c01104419451b08360a57c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles using Guid(c5036c9e7c01104419451b08360a57c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59763780fd1c47c243537dd7a9dd621f') in 0.006912 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Assets/Cocina
-  artifactKey: Guid(58e6dc5c1395ee8468b1aeb78e3f1f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Cocina using Guid(58e6dc5c1395ee8468b1aeb78e3f1f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a75b661b45e934d839e01fae61ad85') in 0.008642 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Audio
-  artifactKey: Guid(c3144b5f683274a49803f7bdcf30acdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Audio using Guid(c3144b5f683274a49803f7bdcf30acdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7873477a343c7cb6053c561e67df8319') in 0.009841 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 24.967268 seconds.
-  path: Assets/Assets/Detalles/FireAlarm
-  artifactKey: Guid(6e1e29a0d7fc6074e8981df33a4aa9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/FireAlarm using Guid(6e1e29a0d7fc6074e8981df33a4aa9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f64ea11d60d8e283a748211ccc5db4f') in 0.008358 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.081759 seconds.
-  path: Assets/Assets/Detalles/FireAlarm/incendio.fbx
-  artifactKey: Guid(12dcf52b3beb6004c8e6f7d3decb6657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/FireAlarm/incendio.fbx using Guid(12dcf52b3beb6004c8e6f7d3decb6657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf87785b581ce64bd14ef236c20458e') in 0.068929 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 34.544286 seconds.
-  path: Assets/Assets/Detalles/columna griega
-  artifactKey: Guid(4620c25d868ab024c904c02f60a8a369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/columna griega using Guid(4620c25d868ab024c904c02f60a8a369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a598c785fa4adf0c8c5943a2e32f13d') in 0.009506 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.919100 seconds.
-  path: Assets/Assets/Detalles/columna griega/source
-  artifactKey: Guid(05a20788b4da6a64192f177064d0c219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/columna griega/source using Guid(05a20788b4da6a64192f177064d0c219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61062762c0a76e81ae90ba888669e599') in 0.013426 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.067950 seconds.
-  path: Assets/Assets/Detalles/columna griega/source/ColumnaGriega.obj
-  artifactKey: Guid(3bb662686211a9440bec9256947c9b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/columna griega/source/ColumnaGriega.obj using Guid(3bb662686211a9440bec9256947c9b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927dbf256a14f1d29f9b3fdba75b7c92') in 0.044261 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1378.793164 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer
-  artifactKey: Guid(cfe94d503da9c2c4f9d8dee9bf8c6e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer using Guid(cfe94d503da9c2c4f9d8dee9bf8c6e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e21ca85eb1e585422b90647bac6ce6') in 0.009505 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.048784 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/gaming setup.png
-  artifactKey: Guid(504fb5955a1f2ab41be3d8c2352bfb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/gaming setup.png using Guid(504fb5955a1f2ab41be3d8c2352bfb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517c1af150343a583602e64d670c7bc0') in 0.031841 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.807689 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source
-  artifactKey: Guid(a66c77f48c83fde4bb61fea77c646322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source using Guid(a66c77f48c83fde4bb61fea77c646322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2287589fdb331c187a5e5be7a19c0e5') in 0.004047 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.552886 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/setap1.fbx
-  artifactKey: Guid(1a1f54c050627b94a8ecb77a4bae189e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/setap1.fbx using Guid(1a1f54c050627b94a8ecb77a4bae189e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941d6b67117b710fce6a29b08135f38e') in 0.062285 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 250.632476 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures
-  artifactKey: Guid(4f96e9a44e369ef42adfae281455d737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures using Guid(4f96e9a44e369ef42adfae281455d737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61339d38ac1b3a81cfe7547b4a33fe6a') in 0.009808 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.066892 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_2D_View_1013.png
-  artifactKey: Guid(dda8016a4a9e75d43879372a0d8a3426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_2D_View_1013.png using Guid(dda8016a4a9e75d43879372a0d8a3426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c34001c97aa2dcbe2d2e1ef9473dda') in 0.031627 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_emissive.jpg
-  artifactKey: Guid(a7b23e944a954924ab29de42d21fbdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_emissive.jpg using Guid(a7b23e944a954924ab29de42d21fbdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c8aab882d2409406594fd039f57577') in 0.023019 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_2D_View_1004.png
-  artifactKey: Guid(45a91a59a2d680046a72f17118b94824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_2D_View_1004.png using Guid(45a91a59a2d680046a72f17118b94824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9964c36ff2921dc0c4297cd197df2544') in 0.015830 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_normal.png
-  artifactKey: Guid(2ae57f49130eeb047859a71c78d0fccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_normal.png using Guid(2ae57f49130eeb047859a71c78d0fccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa827413629ef78472ad11516299d828') in 0.018105 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_roughness.jpg
-  artifactKey: Guid(6ac421fe18ed01e43bf0ec3a2a422f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_roughness.jpg using Guid(6ac421fe18ed01e43bf0ec3a2a422f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0c4cf1cf54a13a2807a069b572ab07') in 0.022617 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000077 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_emissive.jpg
-  artifactKey: Guid(3e35db0644f57de48ae6e0960f28d627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_emissive.jpg using Guid(3e35db0644f57de48ae6e0960f28d627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5804f9559868e4bbae9ceea53d98dc34') in 0.020598 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_AO.jpg
-  artifactKey: Guid(1a906a4f034408f40b582a2014a14877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_AO.jpg using Guid(1a906a4f034408f40b582a2014a14877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe4bfd9f522b1438dd010b86da97700') in 0.017222 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_AO.jpg
-  artifactKey: Guid(8bb4d8b525398dd4fb9343fc6ea02717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_AO.jpg using Guid(8bb4d8b525398dd4fb9343fc6ea02717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5906cd8a620c4e7242a3c5fd62c3a94') in 0.018550 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_AO.jpg
-  artifactKey: Guid(b7e9b235550b60649a2549bbce2f4f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_AO.jpg using Guid(b7e9b235550b60649a2549bbce2f4f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508647ab3ff4ed1cdbb6d42f1775f195') in 0.018675 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_roughness.jpg
-  artifactKey: Guid(39a8c52142cd1ae46b4787a6575d10ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_roughness.jpg using Guid(39a8c52142cd1ae46b4787a6575d10ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21228f8bebd0ead6a220bd4c58cc4512') in 0.016218 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_metallic.jpg
-  artifactKey: Guid(861c7fd88ecc755489f6671f1167ea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/Stoo1_1004_metallic.jpg using Guid(861c7fd88ecc755489f6671f1167ea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b427d73cbd0752dbab88b6ec6a657ce8') in 0.023847 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_metallic.jpg
-  artifactKey: Guid(ac6f72bd649d2df4184b097f1b79e4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/pc_1013_metallic.jpg using Guid(ac6f72bd649d2df4184b097f1b79e4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15219fd5e9513354df254e83eea424c8') in 0.015796 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_metallic.jpg
-  artifactKey: Guid(8147353aeba221f43bc06455fb36b4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_metallic.jpg using Guid(8147353aeba221f43bc06455fb36b4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc4146d5ccf243e5ac9768f8addb369') in 0.015555 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_roughness.jpg
-  artifactKey: Guid(a790894a22d47d141b6f38b16ef04702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_1015_roughness.jpg using Guid(a790894a22d47d141b6f38b16ef04702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f84284e929a9b9ba25c7e18ddf7b54') in 0.024055 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_2D_View_1015.png
-  artifactKey: Guid(f7e76869fd2bcdb48ac394e29bcd04dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/textures/sit_2D_View_1015.png using Guid(f7e76869fd2bcdb48ac394e29bcd04dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845d547881c45264d4b6990a88432476') in 0.017264 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 64.311310 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures
-  artifactKey: Guid(af1ae867d4273634e97d46a001234934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures using Guid(af1ae867d4273634e97d46a001234934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be432e3932e9beb82a4a6b0c71923733') in 0.002293 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 42.232671 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_2D_View_1013.png
-  artifactKey: Guid(1b66d29b6f540fa4592f2a4087323d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_2D_View_1013.png using Guid(1b66d29b6f540fa4592f2a4087323d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ab9822404e2098a833e05e88c81a90') in 0.016955 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_roughness.jpg
-  artifactKey: Guid(09650fac8cb355c44a50740700758ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_roughness.jpg using Guid(09650fac8cb355c44a50740700758ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44b7427b3a8ffc7fc314586c7c901ad') in 0.017608 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_metallic.jpg
-  artifactKey: Guid(4db7950dfbb61d0409df4dbe9b538802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_metallic.jpg using Guid(4db7950dfbb61d0409df4dbe9b538802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0c98ecec501a0d0cd33a5467d06c8cb') in 0.021287 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_AO.jpg
-  artifactKey: Guid(1e231011808a0ea42b0f2fd63dd42e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_AO.jpg using Guid(1e231011808a0ea42b0f2fd63dd42e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833eaa7a418e585f5e0515ce027e4635') in 0.014259 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_AO.jpg
-  artifactKey: Guid(172e82768e1cd654ab9a51d836a3c1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_AO.jpg using Guid(172e82768e1cd654ab9a51d836a3c1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91d8e1002731545cad39418a6b319f0') in 0.022170 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_emissive.jpg
-  artifactKey: Guid(8fc8dd9fc12cb8649a27cd79ee6a35f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_emissive.jpg using Guid(8fc8dd9fc12cb8649a27cd79ee6a35f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc61457aa74550237ad32ea84b95dd3') in 0.017934 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_roughness.jpg
-  artifactKey: Guid(1a8681e35e2014747a01bd67f0e0b666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_roughness.jpg using Guid(1a8681e35e2014747a01bd67f0e0b666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac31137eeeb9bf21d787dbdda6af808') in 0.019491 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_normal.png
-  artifactKey: Guid(159452e261d235348aa8d45ce6cb71ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_normal.png using Guid(159452e261d235348aa8d45ce6cb71ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39b1b300001f680c422c6ffc7395990') in 0.019674 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_emissive.jpg
-  artifactKey: Guid(76fe58e08256bf74b9a49570cebc3dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_emissive.jpg using Guid(76fe58e08256bf74b9a49570cebc3dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1962792d7f00cca14d21fb697f67cfb3') in 0.009645 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_AO.jpg
-  artifactKey: Guid(dc70dbe6d599c864487b9cec0e0a5f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_AO.jpg using Guid(dc70dbe6d599c864487b9cec0e0a5f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5159156123479488fd96e1925dd2f277') in 0.017986 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_metallic.jpg
-  artifactKey: Guid(173a7032f623e7d4c80fc2cc34184140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/pc_1013_metallic.jpg using Guid(173a7032f623e7d4c80fc2cc34184140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00942ebd64234c0c3f2db8369a2a2b7') in 0.014160 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_2D_View_1015.png
-  artifactKey: Guid(2cf985eebc8add64099b4934630e5295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_2D_View_1015.png using Guid(2cf985eebc8add64099b4934630e5295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a43b194ced614a29948f56c321dabc1') in 0.021138 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_2D_View_1004.png
-  artifactKey: Guid(f0b90bf42f21e414b84427451dc3fc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_2D_View_1004.png using Guid(f0b90bf42f21e414b84427451dc3fc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc420fe29c97b50d841d5760f955800') in 0.023058 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_roughness.jpg
-  artifactKey: Guid(e7a1bc3db9a172d468e1b2052f255073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/sit_1015_roughness.jpg using Guid(e7a1bc3db9a172d468e1b2052f255073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77511fb6fc24fad6117a3251d05e5aa5') in 0.024576 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_metallic.jpg
-  artifactKey: Guid(0d163c43fb1025640aa6360008a3fbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/textures/Stoo1_1004_metallic.jpg using Guid(0d163c43fb1025640aa6360008a3fbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c79827f659895b39d7d14483855f041') in 0.016902 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 30.868052 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_2D_View_1013.png
-  artifactKey: Guid(11486f275370744499413deafd0287d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_2D_View_1013.png using Guid(11486f275370744499413deafd0287d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e11c6226a07738cb5527f132309c1d15') in 0.013818 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.004143 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_AO.jpg
-  artifactKey: Guid(c6965f5c07de0e34694764db40723785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_AO.jpg using Guid(c6965f5c07de0e34694764db40723785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb92297bb498dbc9a0e2e7b721623270') in 0.031401 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_roughness.jpg
-  artifactKey: Guid(a9e39d10e729bcd418d327ba200c0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_roughness.jpg using Guid(a9e39d10e729bcd418d327ba200c0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e37204ee22470bd44eb225857b76c5f') in 0.030374 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_metallic.jpg
-  artifactKey: Guid(d0efec6e78729cb4181fec53b3c73440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_metallic.jpg using Guid(d0efec6e78729cb4181fec53b3c73440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79134ab8f0bd76c5d14dfdbc0cefb547') in 0.038693 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_emissive.jpg
-  artifactKey: Guid(871a6fff6fdb6a34d91154e54a2720bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_emissive.jpg using Guid(871a6fff6fdb6a34d91154e54a2720bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6afbbb65241060b36b6ec481cbc7bb8') in 0.022748 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_AO.jpg
-  artifactKey: Guid(2f13fb8daa696894784f9e06fb750341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_AO.jpg using Guid(2f13fb8daa696894784f9e06fb750341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd42d9cf47559ac6d2e440eb8cc46e6d') in 0.026002 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_roughness.jpg
-  artifactKey: Guid(08507e367f76c034585f413ab4f997f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_roughness.jpg using Guid(08507e367f76c034585f413ab4f997f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c285ef3247765c705737187f8fd899') in 0.021270 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_emissive.jpg
-  artifactKey: Guid(85c6b39af0136d045b2eb3e3dc94ce62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_emissive.jpg using Guid(85c6b39af0136d045b2eb3e3dc94ce62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ffd5141c8468d416bcefc108e11d7ec') in 0.019578 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_normal.png
-  artifactKey: Guid(8d7e72f034895564ba08324713299ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_normal.png using Guid(8d7e72f034895564ba08324713299ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3273d182afb98be87684174b9c256907') in 0.022457 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_2D_View_1004.png
-  artifactKey: Guid(3ee5fdef5f4f94b48b67e539d10af234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_2D_View_1004.png using Guid(3ee5fdef5f4f94b48b67e539d10af234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a92be9f329b14bf5e5bc086c8bc85b6') in 0.019511 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_AO.jpg
-  artifactKey: Guid(432c0d37850876b44acbbcd7cf5851a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_AO.jpg using Guid(432c0d37850876b44acbbcd7cf5851a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04e004408085735a27f133f1838dbbf') in 0.019971 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_metallic.jpg
-  artifactKey: Guid(2b25beda714b06745bd7910d842323f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc_1013_metallic.jpg using Guid(2b25beda714b06745bd7910d842323f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4a4532c44304d2f182e70bb54a2825') in 0.007526 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_roughness.jpg
-  artifactKey: Guid(f69c17b6621b41f4fab8ba7410943803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_roughness.jpg using Guid(f69c17b6621b41f4fab8ba7410943803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b56ecbb60f537c266459fbb4a03022') in 0.017385 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_2D_View_1015.png
-  artifactKey: Guid(26c7e291e40cbda4a95277cb20700c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_2D_View_1015.png using Guid(26c7e291e40cbda4a95277cb20700c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf439f39e81e1f90b6d0e982dbc2c6e8') in 0.015456 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_metallic.jpg
-  artifactKey: Guid(5917366b818c96340b0d31a6f1054df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/Stoo1_1004_metallic.jpg using Guid(5917366b818c96340b0d31a6f1054df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033a1ef58f8361af4ecff513be0be4cc') in 0.009748 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 39.753714 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc.mat
-  artifactKey: Guid(8c28878a51795c342b8d2f5562bccfd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc.mat using Guid(8c28878a51795c342b8d2f5562bccfd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acef2532ceb27d7b2840e6ace842f99') in 0.016976 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 90.652190 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_normal.png
-  artifactKey: Guid(8d7e72f034895564ba08324713299ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit_1015_normal.png using Guid(8d7e72f034895564ba08324713299ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5e03393b73054dfd015ec2d5f6f250') in 0.098130 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 65.266315 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc.mat
-  artifactKey: Guid(8c28878a51795c342b8d2f5562bccfd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/pc.mat using Guid(8c28878a51795c342b8d2f5562bccfd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac766e192fb3036f79a4a0613608aaf5') in 0.026575 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/set.mat
-  artifactKey: Guid(a8c1c9489faba2a4aaed736e13cc006d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/set.mat using Guid(a8c1c9489faba2a4aaed736e13cc006d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '805f33e20118a73e291b141e908d7b0b') in 0.021449 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.837854 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit.mat
-  artifactKey: Guid(a8c1c9489faba2a4aaed736e13cc006d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit.mat using Guid(a8c1c9489faba2a4aaed736e13cc006d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c237443916213ed3e23fdfd9cd192ed') in 0.016822 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 37.549993 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit.mat
-  artifactKey: Guid(a8c1c9489faba2a4aaed736e13cc006d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/sit.mat using Guid(a8c1c9489faba2a4aaed736e13cc006d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e35500e1b8cde87556258cff047d3e') in 0.026014 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/stoot.mat
-  artifactKey: Guid(cf3438186c5a5f647a712aab5c0dc335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/stoot.mat using Guid(cf3438186c5a5f647a712aab5c0dc335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb1aacd126dff0cbd7aa1fc830df784') in 0.028057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 33.267924 seconds.
-  path: Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/stoot.mat
-  artifactKey: Guid(cf3438186c5a5f647a712aab5c0dc335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Detalles/compu equipada c escrutorio gamer/source/stoot.mat using Guid(cf3438186c5a5f647a712aab5c0dc335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef76ff339f17eb239cbeb106d3c0c072') in 0.025930 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4745.176247 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.009120 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.563113 seconds.
-  path: Assets/Assets
-  artifactKey: Guid(ea4ff3552d46a44408a05b205a901bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets using Guid(ea4ff3552d46a44408a05b205a901bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4e8e8f7e4a9010fe69fbceb2afc38b') in 0.003228 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1171.183480 seconds.
-  path: Assets/Assets/modelos nuestros
-  artifactKey: Guid(ffae5688b52ec4b45b5a5334abf20d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/modelos nuestros using Guid(ffae5688b52ec4b45b5a5334abf20d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92fc5a8adc601972166bb9ad4c9a4b63') in 0.009636 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.085528 seconds.
-  path: Assets/Assets/modelos nuestros/hause witch.fbx
-  artifactKey: Guid(9fae6e68634840a408ae21eb3ec26266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/modelos nuestros/hause witch.fbx using Guid(9fae6e68634840a408ae21eb3ec26266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83de00cba1aef83187cc38bcf353dca') in 10.109298 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 321.515296 seconds.
-  path: Assets/Scenes/Escena 1.unity
+  Time since last request: 223263.021890 seconds.
+  path: Assets/Scenes/Escena1.unity
   artifactKey: Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Escena 1.unity using Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba13ebf533e53b40bbf0781fd35c3734') in 0.011450 seconds 
+Start importing Assets/Scenes/Escena1.unity using Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3951890403419cdee6d4d854987971') in 0.012520 seconds 
 ========================================================================
-Received Import Request.
-  Time since last request: 31.528398 seconds.
-  path: Assets/Scenes/Instrucciones.unity
-  artifactKey: Guid(3f0142a1bbf05b34cb7c42454907ae79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Instrucciones.unity using Guid(3f0142a1bbf05b34cb7c42454907ae79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5989bce35444edef44b87d5e50e8d83a') in 0.016245 seconds 
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007359 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Workspace\Repositorios\Realidad_Virtual\Realidad-Virtual\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Workspace\Repositorios\Realidad_Virtual\Realidad-Virtual\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.594 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1595ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (1312ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (420ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (633ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (408ms)
+				ProcessInitializeOnLoadMethodAttributes (107ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5360 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (0.8 MB). Loaded Objects now: 5970.
+Memory consumption went from 213.8 MB to 213.0 MB.
+Total: 5.985900 ms (FindLiveObjects: 0.545500 ms CreateObjectMapping: 0.174100 ms MarkObjects: 4.897100 ms  DeleteObjects: 0.367500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 20.731498 seconds.
-  path: Assets/Scenes/Escena 1.unity
-  artifactKey: Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Escena 1.unity using Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd486095c145dade6852e7c40857677') in 0.002791 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 120.825986 seconds.
-  path: Assets/Scenes/Escena 1.unity
-  artifactKey: Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Escena 1.unity using Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e4012f53dbe95acdefaf8cf34f667d') in 0.003347 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.712867 seconds.
-  path: Assets/Scenes/Escena 2.unity
-  artifactKey: Guid(b193155d9306e7a4397f61adc92f3a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Escena 2.unity using Guid(b193155d9306e7a4397f61adc92f3a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74fb28c5952a51c599ddb769590f3f07') in 0.007963 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 81.156131 seconds.
-  path: Assets/Scenes/Escena 2.unity
-  artifactKey: Guid(b193155d9306e7a4397f61adc92f3a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Escena 2.unity using Guid(b193155d9306e7a4397f61adc92f3a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7509e4adbb4000ac527a985e5164508') in 0.003098 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.338460 seconds.
-  path: Assets/Scenes/Escena 1.unity
-  artifactKey: Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Escena 1.unity using Guid(33a6d05c0e099754a8a504dc93e842d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042b26e6417bc88b78fa105a6b5bd8f4') in 0.005010 seconds 
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007631 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Workspace\Repositorios\Realidad_Virtual\Realidad-Virtual\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Workspace\Repositorios\Realidad_Virtual\Realidad-Virtual\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.624 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1624ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1348ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (447ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (631ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (406ms)
+				ProcessInitializeOnLoadMethodAttributes (108ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5360 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (0.8 MB). Loaded Objects now: 5985.
+Memory consumption went from 213.8 MB to 213.0 MB.
+Total: 5.898100 ms (FindLiveObjects: 0.664700 ms CreateObjectMapping: 0.322200 ms MarkObjects: 4.360500 ms  DeleteObjects: 0.549000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

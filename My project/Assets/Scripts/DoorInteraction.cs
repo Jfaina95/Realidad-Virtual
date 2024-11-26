@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
 public class DoorInteraction : MonoBehaviour
 {
     public Animator myAnim;
@@ -18,7 +17,7 @@ public class DoorInteraction : MonoBehaviour
         }
     }
 
-    /*private void OnTriggerStay(Collider other)
+   /* private void OnTriggerStay(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
@@ -36,9 +35,5 @@ public class DoorInteraction : MonoBehaviour
             myAnim.Play("CloseTheDoor");
             
         }
-       
     }
-
-
-
 }
